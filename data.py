@@ -1,1 +1,1 @@
-ECHO is on.
+print "Hello buddy This is sanjay"
